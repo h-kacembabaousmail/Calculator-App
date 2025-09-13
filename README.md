@@ -1,5 +1,4 @@
 # 📱 Simple Calculator (Java, Android Studio)
-
 ## 📖 Project Description
 This is a beginner-friendly mobile application built with **Java** and **Android Studio**.  
 The app provides a clean and interactive interface to perform basic arithmetic operations such as:
@@ -7,7 +6,10 @@ The app provides a clean and interactive interface to perform basic arithmetic o
 - ➕ Addition  
 - ➖ Subtraction  
 - ✖ Multiplication  
-- ➗ Division  
+- ➗ Division
+  <div style="flex:0 0 200px; display:flex; justify-content:flex-end; align-items:flex-start;">
+    <img src="CAL.png" alt="App UX Design" style="width:200px; max-width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.08);" />
+  </div>
 
 ### ✨ Features
 - Support for **decimal numbers**  
